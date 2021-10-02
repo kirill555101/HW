@@ -52,6 +52,8 @@
 
 Проект хранится в репозитории по адресу: [https://bmstu.codes/lsx/mstd/iu6-5-2021/iu6-54b-kykatashinskiy/hw](https://bmstu.codes/lsx/mstd/iu6-5-2021/iu6-54b-kykatashinskiy/hw).
 
+Описание классов хранится в репозитории по адресу: [http://lsx.pages.bmstu.codes/mstd/iu6-5-2021/iu6-54b-kykatashinskiy/hw/](http://lsx.pages.bmstu.codes/mstd/iu6-5-2021/iu6-54b-kykatashinskiy/hw/).
+
 ## Инвариант класса Exhibit
 
 ```cpp
